@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XML-XSL-DTD/Biography.xsl"?>
+<!DOCTYPE note SYSTEM "books.dtd">
+
+<library>
+	<book>
+		<Title> Alexander the Great </Title>
+		<Summary> "Alexander the Great" is a biography that chronicles the life and conquests of the legendary Macedonian king. 
+				   It explores his upbringing, education, and meteoric rise to power after his father's assassination. 
+				   The book provides a detailed account of Alexander's military campaigns, from his conquest of the Persian Empire 
+				   to his march into India. It delves into his complex personality, relationships, and enduring legacy on the 
+				   world stage, offering readers a captivating insight into one of history's most iconic figures. </Summary>
+		<Pages> 416 </Pages>
+		<ISBN> 9781416592815 </ISBN>
+		<Author> Philip Freeman </Author>
+		<Price> 63.19 AED </Price>
+	</book>
+	
+	<book>
+		<Title> Ali: A Life </Title>
+		<Summary> A biography that offers an in-depth exploration of the legendary boxer Muhammad Ali. 
+			      It provides a comprehensive account of Ali's life, from his humble beginnings in Louisville, Kentucky, 
+				  to his rise as one of the most iconic figures in sports history. The book delves into Ali's boxing career, 
+				  his battles inside and outside the ring, and his impact on society and culture. Through vivid storytelling and 
+				  meticulous research, the biography paints a vivid portrait of Ali's personality, struggles, triumphs, and 
+				  enduring legacy, showcasing his significance as a global icon and a symbol of resilience and determination. </Summary>
+		<Pages> 640 </Pages>
+		<ISBN> 9780544435247 </ISBN>
+		<Author> Jonathan Eig </Author>
+		<Price> 69.20 AED </Price>
+	</book>
+
+	<book>
+		<Title> Elon Musk </Title>
+		<Summary> "Elon Musk" is a biography that delves into the life and achievements of the visionary entrepreneur. 
+				   It chronicles Musk's journey from his upbringing in South Africa to his pioneering ventures in technology and 
+		           space exploration. The book explores Musk's early entrepreneurial endeavors, including Zip2 and PayPal, 
+				   as well as his ambitious projects such as Tesla Motors, SpaceX, and SolarCity. Through extensive research and 
+				   interviews, the biography offers readers a fascinating insight into Musk's personality, leadership style, 
+				   and his quest to revolutionize transportation, energy, and space exploration. </Summary>
+		<Pages> 688 </Pages>
+		<ISBN> 	9781982181284 </ISBN>
+		<Author> Walter Isaacson </Author>
+		<Price> 88.60 AED </Price>
+	</book>
+	
+	<book>
+		<Title> A Promised Land </Title>
+		<Summary> "A Promised Land" is the memoir of Barack Obama, the 44th President of the United States. 
+				   In the book, Obama reflects on his early life, political career, and presidency, offering a deeply personal 
+				   account of his journey. He shares insights into his time in office, including the challenges and triumphs 
+				   faced during his presidency, such as the passage of the Affordable Care Act. Throughout the memoir, 
+				   Obama provides candid reflections on leadership, democracy, and the complexities of governing a nation. With 
+				   eloquence and introspection, "A Promised Land" offers readers a compelling narrative of Obama's historic 
+				   presidency and the vision for a better future he worked to achieve. </Summary>
+		<Pages> 768 </Pages>
+		<ISBN> 9781524763169 </ISBN>
+		<Author> Barack Obama </Author>
+		<Price> 43.00 AED </Price>
+	</book>
+</library>

@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XML-XSL-DTD/Home.xsl"?>
+<!DOCTYPE note SYSTEM "mainbooks.dtd">
+
+<library>
+	<book category="fiction">
+		<Title> Harry Potter and the Philosopher's Stone </Title>
+		<Genre> Fiction </Genre>
+		<Summary> Harry Potter learns he's a wizard and attends Hogwarts with friends Ron and Hermione. 
+				  Together, they uncover secrets, face challenges, and confront Voldemort to protect the Philosopher's Stone, 
+				  discovering the values of friendship and bravery. As they delve into the mysteries of 
+				  Harry's past and the dark wizard's return, they embark on a journey of courage and sacrifice. 
+				  Through their adventures, they learn about the power of unity and the importance of standing up 
+				  against darkness, laying the foundation for the epic battles yet to come in the wizarding world. </Summary>
+		<Pages> 309 </Pages>
+		<ISBN> 9780747532699 </ISBN>
+		<Author> J.K. Rowling	 </Author>
+		<Price> 33.64 AED </Price>
+	</book>
+	
+	<book category="fiction">
+		<Title> The Hunger Games </Title>
+		<Genre> Fiction </Genre>
+		<Summary> Set in a dystopian future, Katniss Everdeen volunteers to take her sister's place in a brutal televised event 
+			      where teenagers fight to the death. Alongside Peeta Mellark, her fellow tribute, Katniss navigates 
+				  the deadly arena, confronting moral dilemmas and the oppressive Capitol. As the Games progress, 
+				  Katniss and Peeta form alliances, defy the odds, and challenge the system, sparking a revolution that 
+				  reverberates throughout Panem. Through sacrifice and resilience, Katniss becomes a symbol of hope for the 
+				  oppressed districts, igniting a rebellion against the Capitol's tyranny. </Summary>
+		<Pages> 384 </Pages>
+		<ISBN> 9780439023528 </ISBN>
+		<Author> Suzanne Collins </Author>
+		<Price> 42.00 AED </Price>
+	</book>
+
+	<book category="fiction">
+		<Title> Murder on the Orient Express </Title>
+		<Genre> Fiction </Genre>
+		<Summary> Famed detective Hercule Poirot finds himself aboard the luxurious train when a murder occurs. 
+			      With a carriage full of suspects, Poirot employs his keen intellect to unravel the intricate web of lies and 
+				  deceit surrounding the crime. As he interviews passengers and pieces together clues, he uncovers a 
+				  shocking truth that challenges his own sense of justice. Set against the backdrop of a snowbound train, 
+				  this classic mystery delves into themes of vengeance, morality, and the complexities of human nature, 
+				  culminating in a surprising and satisfying resolution. </Summary>
+		<Pages> 288 </Pages>
+		<ISBN> 	9780062073495 </ISBN>
+		<Author> Agatha Christie </Author>
+		<Price> 48.69 AED </Price>
+	</book>
+	
+	<book category="fiction">
+		<Title> A Court of Thorns and Roses </Title>
+		<Genre> Fiction </Genre>
+		<Summary> Feyre Archeron, a young huntress, is dragged into the world of the faeries after killing a wolf in the woods, 
+				  which turns out to be a magical creature. As punishment, she's taken to the land of the faeries to live out her days.
+				  However, Feyre soon discovers that not everything is as it seems in the realm of the fae. 
+				  Amidst political intrigue and ancient conflicts, she navigates the treacherous court of the High Fae and 
+				  uncovers dark secrets that threaten both the mortal and faerie realms. Along the way, she forms alliances, 
+				  battles mythical creatures, and discovers her own hidden powers, setting the stage for a thrilling adventure 
+				  filled with romance, danger, and betrayal </Summary>
+		<Pages> 448 </Pages>
+		<ISBN> 	9781635575569 </ISBN>
+		<Author> Sarah J. Maas </Author>
+		<Price> 69.95 AED </Price>
+	</book>
+	
+	
+	<book category="novel">
+		<Title> The Silent Patient </Title>
+		<Genre> Novel </Genre>
+		<Summary> The story of Alicia Berenson, a renowned painter who shoots her husband, Gabriel, five times in the face 
+				and then stops speaking. The narrative is primarily told through the perspective of Theo Faber, a psychotherapist 
+				who becomes obsessed with Alicia's case. Despite her refusal to speak, Theo is determined to uncover the truth 
+				behind Alicia's actions and break through her silence. s Theo delves deeper into Alicia's past and psyche, he 
+				unravels shocking secrets.The novel explores themes of trauma, guilt, and the complexity of the human mind. </Summary>
+		<Pages> 368 </Pages>
+		<ISBN> ‎‎‎9781250301697 </ISBN>
+		<Author> Alex Michaelides </Author>
+		<Price> 46.00 AED </Price>
+	</book>
+	
+	<book category="novel">
+		<Title> November 9 </Title>
+		<Genre> Novel </Genre>
+		<Summary> A contemporary romance novel that follows the story of Fallon and Ben, who meet on November 9th and share a profound
+		connection. The catch is they agree to meet only on that day each year, allowing themselves to pursue their individual dreams
+		and ambitions. Over the course of five years, they navigate personal challenges, growth, and unexpected twists that test the 
+		strength of their bond. As they reunite each November 9th, secrets are revealed, emotions run high. The novel explores themes 
+		of love, timing, forgiveness, and the power of second chances. </Summary>
+		<Pages> 320 </Pages>
+		<ISBN> ‎9781501110344 </ISBN>
+		<Author> Colleen Hoover </Author>
+		<Price> 77.25 AED </Price>
+	</book>
+	
+	<book category="novel">
+		<Title> Five Survive </Title>
+		<Genre> Novel </Genre>
+		<Summary> Eight hours. Six friends. Five survive. Red Kenny is on a road trip for spring break with five friends: Her best friend
+		– the older brother – his perfect girlfriend – a secret crush – a classmate – and a killer. When their RV breaks down in the middle
+		of nowhere with no cell service, they soon realize this is no accident. They have been trapped by someone out there in the dark,
+		someone who clearly wants one of them dead. With eight hours until dawn, the six friends must escape, or figure out which of them 
+		is the target. But is there a liar among them? Not all of them will survive the night.. </Summary>
+		<Pages> 391 </Pages>
+		<ISBN> ‎‎‎‎‎9780593374191 </ISBN>
+		<Author> Holly Jackson </Author>
+		<Price> 55.00 AED </Price>
+	</book>
+	
+	<book category="novel">
+		<Title> Happy Place </Title>
+		<Genre> Novel </Genre>
+		<Summary> Harriet and Wyn are the perfect couple - they go together like bread and butter, gin and tonic, Blake Lively and Ryan Reynolds.
+		Except, now they don't. They broke up six months ago. Only this year, Harriet and Wyn are lying through their teeth. The cottage is for
+		sale so this is the last time they'll all be together here and they can't bear to break their friends' hearts. So, they'll fake it for
+		one more week. Brimming with characters you can't help but fall for and off-the-charts chemistry. </Summary>
+		<Pages> 416 </Pages>
+		<ISBN> ‎‎‎9780593441190 </ISBN>
+		<Author> Emily Henry </Author>
+		<Price> 84.40 AED </Price>
+	</book>
+	
+	
+	<book category="thriller">
+		<Title> The 6:20 Man </Title>
+		<Genre> Thriller </Genre>
+		<Summary> Every day without fail, Travis Devine puts on a cheap suit, grabs his faux-leather briefcase, and boards the
+				6:20 commuter train to Manhattan, where he works as an entry-level analyst at the city’s most prestigious
+				investment firm. In the mornings, he gazes out the train window at the lavish homes of the uberwealthy,
+				dreaming about joining their ranks. In the evenings, he listens to the fiscal news on his phone, already
+				preparing for the next grueling day in the cutthroat realm of finance. Then one morning Devine’s tedious
+				routine is shattered by an anonymous email: She is dead. Sara Ewes, Devine’s coworker and former girlfriend,
+				has been found hanging in a storage room of his office building—presumably a suicide, prompting the NYPD to
+				come calling on him. If that wasn’t enough, Devine receives another ominous visit, a confrontation that
+				threatens to dredge up grim secrets from his past in the Army unless he participates in a clandestine
+				investigation into his firm. </Summary>
+		<Pages> 464 </Pages>
+		<ISBN> 9781538719855 </ISBN>
+		<Author> David Baldacci </Author>
+		<Price> 54.00 AED </Price>
+	</book>
+	
+	<book category="thriller">
+		<Title> Lakewood </Title>
+		<Genre> Thriller </Genre>
+		<Summary> When Lena Johnson’s beloved grandmother dies, and the full extent of the family debt is revealed, the black
+				millennial drops out of college to support her family and takes a job in the mysterious and remote town of
+				Lakewood, Michigan. On paper, her new job is too good to be true. High paying. No out of pocket medical expenses.
+				A free place to live. All Lena has to do is participate in a secret program—and lie to her friends and family about
+				the research being done in Lakewood. An eye drop that makes brown eyes blue, a medication that could be a cure for
+				dementia, golden pills promised to make all bad thoughts go away. The discoveries made in Lakewood, Lena is told,
+				will change the world—but the consequences for the subjects involved could be devastating. As the truths of the
+				program reveal themselves, Lena learns how much she’s willing to sacrifice for the sake of her family. Provocative
+				and thrilling, Lakewood is a breathtaking novel that takes an unflinching look at the moral dilemmas many
+				working-class families face, and the horror that has been forced on black bodies in the name of science. </Summary>
+		<Pages> 288 </Pages>
+		<ISBN> ‎9780062913197 </ISBN>
+		<Author> Megan Giddings </Author>
+		<Price> 81.00 AED </Price>
+	</book>
+	
+	<book category="thriller">
+		<Title> Bluebird, Bluebird </Title>
+		<Genre> Thriller </Genre>
+		<Summary> When it comes to law and order, East Texas plays by its own rules--a fact that Darren Mathews, a black Texas
+				Ranger, knows all too well. Deeply ambivalent about growing up black in the lone star state, he was the first in
+				his family to get as far away from Texas as he could. Until duty called him home. When his allegiance to his roots
+				puts his job in jeopardy, he travels up Highway 59 to the small town of Lark, where two murders--a black lawyer
+				from Chicago and a local white woman--have stirred up a hornet's nest of resentment. Darren must solve the
+				crimes--and save himself in the process--before Lark's long-simmering racial fault lines erupt. </Summary>
+		<Pages> 320 </Pages>
+		<ISBN> ‎‎9780316363297 </ISBN>
+		<Author> Attica Locke </Author>
+		<Price> 78.00 AED </Price>
+	</book>
+	
+	<book category="thriller">
+		<Title> Gone Girl </Title>
+		<Genre> Thriller </Genre>
+		<Summary> Who are you? What have we done to each other? These are the questions Nick Dunne finds himself asking on the
+				morning of his fifth wedding anniversary when his wife Amy suddenly disappears. The police suspect Nick. Amy's
+				friends reveal that she was afraid of him, that she kept secrets from him. He swears it isn't true. A police
+				examination of his computer shows strange searches. He says they weren't made by him. And then there are the
+				persistent calls on his mobile phone. So what did happen to Nick's beautiful wife? </Summary>
+		<Pages> 422 </Pages>
+		<ISBN> ‎‎‎9780307588371 </ISBN>
+		<Author> Gillian Flynn </Author>
+		<Price> 32.55 AED </Price>
+	</book>
+	
+	
+	<book category="horror">
+		<Title> My Heart is a Chainsaw </Title>
+		<Genre> Horror </Genre>
+		<Summary> Jade Daniels is an angry, half-Indian outcast with an abusive father, an absent mother, and an entire town that
+				wants nothing to do with her. She lives in her own world, a world in which protection comes from an unusual
+				source: horror movies…especially the ones where a masked killer seeks revenge on a world that wronged them. And
+				Jade narrates the quirky history of Proofrock as if it is one of those movies. But when blood actually starts
+				to spill into the waters of Indian Lake, she pulls us into her dizzying, encyclopedic mind of blood and masked
+				murderers, and predicts exactly how the plot will unfold. Yet, even as Jade drags us into her dark fever dream,
+				a surprising and intimate portrait emerges… a portrait of the scared and traumatized little girl beneath the
+				Jason Voorhees mask: angry, yes, but also a girl who easily cries, fiercely loves, and desperately wants a
+				home. A girl whose feelings are too big for her body. </Summary>
+		<Pages> 432 </Pages>
+		<ISBN> 9781982137649 </ISBN>
+		<Author> Stephen Graham Jones </Author>
+		<Price> 66.07 AED </Price>
+	</book>
+	
+	<book category="horror">
+		<Title> Black Sheep </Title>
+		<Genre> Horror </Genre>
+		<Summary> Nobody has a “normal” family, but Vesper Wright’s is truly…something else. Vesper left home at eighteen and
+				never looked back—mostly because she was told that leaving the staunchly religious community she grew up in
+				meant she couldn’t return. But then an envelope arrives on her doorstep. Inside is an invitation to the wedding
+				of Vesper’s beloved cousin Rosie. It’s to be hosted at the family farm. Have they made an exception to the
+				rule? It wouldn’t be the first time Vesper’s been given special treatment. Is the invite a sweet gesture? An
+				olive branch? A trap? Doesn’t matter. Something inside her insists she go to the wedding. Even if it means
+				returning to the toxic environment she escaped. Even if it means reuniting with her mother, Constance, a former
+				horror film star and forever ice queen. When Vesper’s homecoming exhumes a terrifying secret, she’s forced to
+				reckon with her family’s beliefs and her own crisis of faith in this deliciously sinister novel that explores
+				the way family ties can bind us as we struggle to find our place in the world. </Summary>
+		<Pages> 304 </Pages>
+		<ISBN> 9780593545850 </ISBN>
+		<Author> Rachel Harrison </Author>
+		<Price> 75.48 AED </Price>
+	</book>
+
+	<book category="horror">
+		<Title> Episode Thirteen </Title>
+		<Genre> Horror </Genre>
+		<Summary> Fade to Black is the newest hit ghost hunting reality TV show. Led by husband and wife team Matt and Claire
+				Kirklin, it delivers weekly hauntings investigated by a dedicated team of ghost hunting experts. Episode Thirteen
+				takes them to every ghost hunter's holy grail: the Paranormal Research Foundation. This brooding, derelict mansion
+				holds secrets and clues about bizarre experiments that took place there in the 1970s. It's also famously haunted,
+				and the team hopes their scientific techniques and high tech gear will prove it. But as the house begins to reveal
+				itself to them, proof of an afterlife might not be everything Matt dreamed of. A story told in broken pieces, in
+				tapes, journals, and correspondence, this is the story of Episode Thirteen -- and how everything went terribly,
+				horribly wrong. </Summary>
+		<Pages> 464 </Pages>
+		<ISBN> 9780316443104 </ISBN>
+		<Author> Craig DiLouie </Author>
+		<Price> 80.00 AED </Price>
+	</book>
+	
+	
+	<book category="drama">
+		<Title> Heart Bones </Title>
+		<Genre> Drama </Genre>
+		<Summary> A contemporary romance novel that follows the story of Beyah, a troubled young woman who finds solace in her summer escape
+		to a coastal town in North Carolina. There, she meets Samson, a local boy with a complicated past of his own. Despite their initial
+		differences, Beyah and Samson form a deep connection and embark on a passionate romance. However, as they navigate their relationship
+		and confront the secrets they've been keeping, they must also face the challenges of their respective pasts. The novel explores themes
+		of love, forgiveness, redemption, and the healing power of human connection. </Summary>
+		<Pages> 338 </Pages>
+		<ISBN> 9781542014803 </ISBN>
+		<Author> Colleen Hoover </Author>
+		<Price> 66.00 AED </Price>
+	</book>
+	
+	<book category="drama">
+		<Title> Malibu Rising </Title>
+		<Genre> Drama </Genre>
+		<Summary> Set in Malibu in the 1980s, focusing on the Riva family, particularly the four famous siblings: Nina, Jay, Hud, and Kit. 
+		The story unfolds over the course of one day, the day of the Riva's annual party, which is known for being a legendary event in Malibu.
+		"Malibu Rising" explores themes of family, love, betrayal, and resilience, painting a vivid portrait of a glamorous yet flawed 
+		family against the backdrop of the sun-soaked California coast. </Summary>
+		<Pages> 384 </Pages>
+		<ISBN> ‎9781524798659 </ISBN>
+		<Author> Taylor Jenkins Reid </Author>
+		<Price> 57.50 AED </Price>
+	</book>
+	
+	<book category="drama">
+		<Title> None of this is True </Title>
+		<Genre> Drama </Genre>
+		<Summary> This drama explores the lives of a group of friends as they navigate through the complexities of adulthood. The story 
+		\primarily focuses on a group of four friends who met during their college years and have remained close ever since. As they approach
+		their thirties, each character grapples with their own personal struggles, including relationships, careers, and identity crises.
+		It offers a poignant and relatable portrayal of friendship and the challenges of adulthood, with characters who are flawed and 
+		complex yet ultimately endearing. </Summary>
+		<Pages> 380 </Pages>
+		<ISBN> ‎‎B0CF7TD19V </ISBN>
+		<Author> Lisa Jewell </Author>
+		<Price> 80.75 AED </Price>
+	</book>
+	
+	
+	<book category="biography">
+		<Title> Alexander the Great </Title>
+		<Genre> Biogaphy </Genre>
+		<Summary> "Alexander the Great" is a biography that chronicles the life and conquests of the legendary Macedonian king. 
+				   It explores his upbringing, education, and meteoric rise to power after his father's assassination. 
+				   The book provides a detailed account of Alexander's military campaigns, from his conquest of the Persian Empire 
+				   to his march into India. It delves into his complex personality, relationships, and enduring legacy on the 
+				   world stage, offering readers a captivating insight into one of history's most iconic figures. </Summary>
+		<Pages> 416 </Pages>
+		<ISBN> 9781416592815 </ISBN>
+		<Author> Philip Freeman </Author>
+		<Price> 63.19 AED </Price>
+	</book>
+	
+	<book category="biography">
+		<Title> Ali: A Life </Title>
+		<Genre> Biogaphy </Genre>
+		<Summary> A biography that offers an in-depth exploration of the legendary boxer Muhammad Ali. 
+			      It provides a comprehensive account of Ali's life, from his humble beginnings in Louisville, Kentucky, 
+				  to his rise as one of the most iconic figures in sports history. The book delves into Ali's boxing career, 
+				  his battles inside and outside the ring, and his impact on society and culture. Through vivid storytelling and 
+				  meticulous research, the biography paints a vivid portrait of Ali's personality, struggles, triumphs, and 
+				  enduring legacy, showcasing his significance as a global icon and a symbol of resilience and determination. </Summary>
+		<Pages> 640 </Pages>
+		<ISBN> 9780544435247 </ISBN>
+		<Author> Jonathan Eig </Author>
+		<Price> 69.20 AED </Price>
+	</book>
+
+	<book category="biography">
+		<Title> Elon Musk </Title>
+		<Genre> Biogaphy </Genre>
+		<Summary> "Elon Musk" is a biography that delves into the life and achievements of the visionary entrepreneur. 
+				   It chronicles Musk's journey from his upbringing in South Africa to his pioneering ventures in technology and 
+		           space exploration. The book explores Musk's early entrepreneurial endeavors, including Zip2 and PayPal, 
+				   as well as his ambitious projects such as Tesla Motors, SpaceX, and SolarCity. Through extensive research and 
+				   interviews, the biography offers readers a fascinating insight into Musk's personality, leadership style, 
+				   and his quest to revolutionize transportation, energy, and space exploration. </Summary>
+		<Pages> 688 </Pages>
+		<ISBN> 	9781982181284 </ISBN>
+		<Author> Walter Isaacson </Author>
+		<Price> 88.60 AED </Price>
+	</book>
+	
+	<book category="biography">
+		<Title> A Promised Land </Title>
+		<Genre> Biogaphy </Genre>
+		<Summary> "A Promised Land" is the memoir of Barack Obama, the 44th President of the United States. 
+				   In the book, Obama reflects on his early life, political career, and presidency, offering a deeply personal 
+				   account of his journey. He shares insights into his time in office, including the challenges and triumphs 
+				   faced during his presidency, such as the passage of the Affordable Care Act. Throughout the memoir, 
+				   Obama provides candid reflections on leadership, democracy, and the complexities of governing a nation. With 
+				   eloquence and introspection, "A Promised Land" offers readers a compelling narrative of Obama's historic 
+				   presidency and the vision for a better future he worked to achieve. </Summary>
+		<Pages> 768 </Pages>
+		<ISBN> 9781524763169 </ISBN>
+		<Author> Barack Obama </Author>
+		<Price> 43.00 AED </Price>
+	</book>
+	
+	
+	<book category="history">
+	<Genre> History </Genre>
+		<Title> Little Book of Big History: The Story of Life, the Universe and Everything </Title>
+		<Summary> All readers can enjoy The Little Book of Big History's very informative and approachable sections that deconstruct Big History's core concepts. 
+		The Little Book of Big History covers the universe, the stars, life, and everything in between, breaking history down into digestible but thorough time periods
+		that span from the Big Bang to the future of our planet. The goal of Big History is to summarise and comprehend the whole cosmic narrative, from the Big Bang to 
+		the present. A unique viewpoint on humanity's place in the cosmos is produced by combining techniques from history, astronomy, physics, and biology to piece together
+		the grand narratives of how the universe was created, why planets formed, and how life evolved.</Summary>
+		<Pages> 341 </Pages>
+		<ISBN> 9781782434290 </ISBN>
+		<Author> Ian Crofton, Jeremy Black </Author>
+		<Price> 55.00 AED </Price>
+	</book>
+	
+	<book category="history">
+	<Genre> History </Genre>
+		<Title> A Night to Remember: The Classic Bestselling Account of the Sinking of the Titanic </Title>
+		<Summary> Over 1,500 people lost their lives when the Titanic, the biggest passenger ship in the world, sank on April 15, 1912, 
+		as a result of an iceberg collision. The author's best-selling account of the journey, the accident, and the aftermath is a masterwork of 
+		in-depth research on the distinction between upstairs and downstairs </Summary>
+		<Pages> 256 </Pages>
+		<ISBN> ‎9780141399690 </ISBN>
+		<Author> Brian Lavery, Julian Fellowes, Walter Lord  </Author>
+		<Price> 25.00 AED </Price>
+	</book>
+	
+	<book category="history">
+	<Genre> History </Genre>
+		<Title> The History of the World in Bite-Sized Chunks </Title>
+		<Summary> It's uncommon to find the entirety of a subject as rich, varied, and fascinating as history in one book—that is, until now. 
+		From the oldest civilizations to the creation of the United Nations in 1945, author Emma Marriott
+		skillfully weaves together a narrative that includes notable figures such as Charlemagne, the Ottoman Empire, and the Crimean War. </Summary>
+		<Pages> 192 </Pages>
+		<ISBN> ‎‎9781782437079 </ISBN>
+		<Author> Emma Marriott </Author>
+		<Price> 25.00 AED </Price>
+	</book>
+	
+	
+	<book category="manga">
+		<Title> Play it Cool, Guys </Title>
+		<Genre> Manga </Genre>
+		<Summary> They’re so goofy, they’re cool. Enter: a bunch of cool guys who give off the impression of having that unapproachable swag. 
+		However, if you look closely, you'll see a group of dorks who have the whole act down pat. So take a seat, get some popcorn, 
+		and enjoy seeing these clumsy guys attempt to appear cool every single day.</Summary>
+		<Pages> 650 </Pages>
+		<ISBN> 9781975321529 </ISBN>
+		<Author> Kokone Nata </Author>
+		<Price> 60.00 AED </Price>
+	</book>
+	
+	<book category="manga">
+		<Title> Horimiya </Title>
+		<Genre> Manga </Genre>
+		<Summary> "Horimiya" follows the story of two high school students, Kyouko Hori and Izumi Miyamura. At school, Hori is a popular and outgoing girl, while Miyamura is a quiet and somewhat nerdy boy. However, outside of school, their true personalities are quite different.
+		One day, Hori discovers Miyamura's hidden side when she encounters him outside of school with his piercings and tattoos exposed. This encounter leads to a surprising friendship between them as they begin to spend more time together outside of school.
+		As their friendship deepens, they gradually learn more about each other's lives, secrets, and struggles. Along the way, they also become involved in the lives of their classmates and friends, forming meaningful relationships and navigating the ups and downs of high school life.
+		The manga explores themes of friendship, self-discovery, and the complexities of teenage relationships, all with a blend of humor, romance, and heartwarming moments. </Summary>
+		<Pages> 1600 </Pages>
+		<ISBN> ‎9780316342032 </ISBN>
+		<Author> HERO </Author>
+		<Price> 50.00 AED </Price>
+	</book>
+	
+	<book category="manga">
+		<Title> Cells at Work!! </Title>
+		<Genre> Manga </Genre>
+		<Summary> "Cells at Work!" follows the adventures of anthropomorphized cells within the human body as they go about their daily tasks, defending the body from various threats and maintaining its overall health.
+		The main characters include the diligent but somewhat clumsy Red Blood Cell AE3803, who delivers oxygen to various parts of the body, and the fierce yet compassionate White Blood Cell U-1146, who battles against pathogens and other invaders. Throughout the series, 
+		these characters encounter a wide range of challenges, including bacterial infections, viruses, allergies, and other health issues.
+		As the cells navigate through the body's systems, they encounter other cell types, such as Platelets, Macrophages, and Killer T Cells, each with their own unique abilities and roles in maintaining bodily functions and fighting off threats.
+		"Cells at Work!" blends educational content with humor and action, providing readers with an entertaining and informative glimpse into the inner workings of the human body. Through its creative storytelling and colorful characters, the manga 
+		offers a fun way to learn about biology and the immune system. </Summary>
+		<Pages> 700 </Pages>
+		<ISBN> ‎‎9781632363565 </ISBN>
+		<Author> Akane Shimizu </Author>
+		<Price> 59.00 AED </Price>
+	</book>
+</library>

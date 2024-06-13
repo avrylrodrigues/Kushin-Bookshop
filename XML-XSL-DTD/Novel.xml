@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XML-XSL-DTD/Novel.xsl"?>
+<!DOCTYPE note SYSTEM "books.dtd">
+
+<library>
+	<book>
+		<Title> The Silent Patient </Title>
+		<Summary> The story of Alicia Berenson, a renowned painter who shoots her husband, Gabriel, five times in the face 
+				and then stops speaking. The narrative is primarily told through the perspective of Theo Faber, a psychotherapist 
+				who becomes obsessed with Alicia's case. Despite her refusal to speak, Theo is determined to uncover the truth 
+				behind Alicia's actions and break through her silence. s Theo delves deeper into Alicia's past and psyche, he 
+				unravels shocking secrets.The novel explores themes of trauma, guilt, and the complexity of the human mind. </Summary>
+		<Pages> 368 </Pages>
+		<ISBN> ‎‎‎9781250301697 </ISBN>
+		<Author> Alex Michaelides </Author>
+		<Price> 46.00 AED </Price>
+	</book>
+	
+	<book>
+		<Title> November 9 </Title>
+		<Summary> A contemporary romance novel that follows the story of Fallon and Ben, who meet on November 9th and share a profound
+		connection. The catch is they agree to meet only on that day each year, allowing themselves to pursue their individual dreams
+		and ambitions. Over the course of five years, they navigate personal challenges, growth, and unexpected twists that test the 
+		strength of their bond. As they reunite each November 9th, secrets are revealed, emotions run high. The novel explores themes 
+		of love, timing, forgiveness, and the power of second chances. </Summary>
+		<Pages> 320 </Pages>
+		<ISBN> ‎9781501110344 </ISBN>
+		<Author> Colleen Hoover </Author>
+		<Price> 77.25 AED </Price>
+	</book>
+	
+	<book>
+		<Title> Five Survive </Title>
+		<Summary> Eight hours. Six friends. Five survive. Red Kenny is on a road trip for spring break with five friends: Her best friend
+		– the older brother – his perfect girlfriend – a secret crush – a classmate – and a killer. When their RV breaks down in the middle
+		of nowhere with no cell service, they soon realize this is no accident. They have been trapped by someone out there in the dark,
+		someone who clearly wants one of them dead. With eight hours until dawn, the six friends must escape, or figure out which of them 
+		is the target. But is there a liar among them? Not all of them will survive the night.. </Summary>
+		<Pages> 391 </Pages>
+		<ISBN> ‎‎‎‎‎9780593374191 </ISBN>
+		<Author> Holly Jackson </Author>
+		<Price> 55.00 AED </Price>
+	</book>
+	
+	<book>
+		<Title> Happy Place </Title>
+		<Summary> Harriet and Wyn are the perfect couple - they go together like bread and butter, gin and tonic, Blake Lively and Ryan Reynolds.
+		Except, now they don't. They broke up six months ago. Only this year, Harriet and Wyn are lying through their teeth. The cottage is for
+		sale so this is the last time they'll all be together here and they can't bear to break their friends' hearts. So, they'll fake it for
+		one more week. Brimming with characters you can't help but fall for and off-the-charts chemistry. </Summary>
+		<Pages> 416 </Pages>
+		<ISBN> ‎‎‎9780593441190 </ISBN>
+		<Author> Emily Henry </Author>
+		<Price> 84.40 AED </Price>
+	</book>
+</library>

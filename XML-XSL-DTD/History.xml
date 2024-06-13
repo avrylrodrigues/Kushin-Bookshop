@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XML-XSL-DTD/History.xsl"?>
+<!DOCTYPE note SYSTEM "books.dtd">
+
+<library>
+	<book>
+		<Title> Little Book of Big History: The Story of Life, the Universe and Everything </Title>
+		<Summary> All readers can enjoy The Little Book of Big History's very informative and approachable sections that deconstruct Big History's core concepts. 
+		The Little Book of Big History covers the universe, the stars, life, and everything in between, breaking history down into digestible but thorough time periods
+		that span from the Big Bang to the future of our planet. The goal of Big History is to summarise and comprehend the whole cosmic narrative, from the Big Bang to 
+		the present. A unique viewpoint on humanity's place in the cosmos is produced by combining techniques from history, astronomy, physics, and biology to piece together
+		the grand narratives of how the universe was created, why planets formed, and how life evolved.</Summary>
+		<Pages> 341 </Pages>
+		<ISBN> 9781782434290 </ISBN>
+		<Author> Ian Crofton, Jeremy Black </Author>
+		<Price> 55.00 AED </Price>
+	</book>
+	
+	<book>
+		<Title> A Night to Remember: The Classic Bestselling Account of the Sinking of the Titanic </Title>
+		<Summary> Over 1,500 people lost their lives when the Titanic, the biggest passenger ship in the world, sank on April 15, 1912, 
+		as a result of an iceberg collision. The author's best-selling account of the journey, the accident, and the aftermath is a masterwork of 
+		in-depth research on the distinction between upstairs and downstairs </Summary>
+		<Pages> 256 </Pages>
+		<ISBN> ‎9780141399690 </ISBN>
+		<Author> Brian Lavery, Julian Fellowes, Walter Lord  </Author>
+		<Price> 25.00 AED </Price>
+	</book>
+	
+	<book>
+		<Title> The History of the World in Bite-Sized Chunks </Title>
+		<Summary> It's uncommon to find the entirety of a subject as rich, varied, and fascinating as history in one book—that is, until now. 
+		From the oldest civilizations to the creation of the United Nations in 1945, author Emma Marriott
+		skillfully weaves together a narrative that includes notable figures such as Charlemagne, the Ottoman Empire, and the Crimean War. </Summary>
+		<Pages> 192 </Pages>
+		<ISBN> ‎‎9781782437079 </ISBN>
+		<Author> Emma Marriott </Author>
+		<Price> 25.00 AED </Price>
+	</book>
+</library>

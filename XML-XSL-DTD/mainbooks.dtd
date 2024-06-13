@@ -1,0 +1,10 @@
+<!DOCTYPE library [
+	<!ELEMENT library (book+)>
+	<!ELEMENT book (Title, Genre, Summary, Pages, ISBN, Author, Price)>
+	<!ELEMENT Title (#PCDATA)>
+	<!ELEMENT Summary (#PCDATA)>
+	<!ELEMENT Pages (#PCDATA)>
+	<!ELEMENT ISBN (#PCDATA)>
+	<!ELEMENT Author (#PCDATA)>
+	<!ELEMENT Price (#PCDATA)>
+]>

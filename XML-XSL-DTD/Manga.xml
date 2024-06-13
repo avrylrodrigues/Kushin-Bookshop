@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XML-XSL-DTD/Manga.xsl"?>
+<!DOCTYPE note SYSTEM "books.dtd">
+
+<library>
+	<book>
+		<Title> Play it Cool, Guys </Title>
+		<Summary> They’re so goofy, they’re cool. Enter: a bunch of cool guys who give off the impression of having that unapproachable swag. 
+		However, if you look closely, you'll see a group of dorks who have the whole act down pat. So take a seat, get some popcorn, 
+		and enjoy seeing these clumsy guys attempt to appear cool every single day.</Summary>
+		<Pages> 650 </Pages>
+		<ISBN> 9781975321529 </ISBN>
+		<Author> Kokone Nata </Author>
+		<Price> 60.00 AED </Price>
+	</book>
+	
+	<book>
+		<Title> Horimiya </Title>
+		<Summary> "Horimiya" follows the story of two high school students, Kyouko Hori and Izumi Miyamura. At school, Hori is a popular and outgoing girl, while Miyamura is a quiet and somewhat nerdy boy. However, outside of school, their true personalities are quite different.
+		One day, Hori discovers Miyamura's hidden side when she encounters him outside of school with his piercings and tattoos exposed. This encounter leads to a surprising friendship between them as they begin to spend more time together outside of school.
+		As their friendship deepens, they gradually learn more about each other's lives, secrets, and struggles. Along the way, they also become involved in the lives of their classmates and friends, forming meaningful relationships and navigating the ups and downs of high school life.
+		The manga explores themes of friendship, self-discovery, and the complexities of teenage relationships, all with a blend of humor, romance, and heartwarming moments. </Summary>
+		<Pages> 1600 </Pages>
+		<ISBN> ‎9780316342032 </ISBN>
+		<Author> HERO </Author>
+		<Price> 50.00 AED </Price>
+	</book>
+	
+	<book>
+		<Title> Cells at Work!! </Title>
+		<Summary> "Cells at Work!" follows the adventures of anthropomorphized cells within the human body as they go about their daily tasks, defending the body from various threats and maintaining its overall health.
+		The main characters include the diligent but somewhat clumsy Red Blood Cell AE3803, who delivers oxygen to various parts of the body, and the fierce yet compassionate White Blood Cell U-1146, who battles against pathogens and other invaders. Throughout the series, 
+		these characters encounter a wide range of challenges, including bacterial infections, viruses, allergies, and other health issues.
+		As the cells navigate through the body's systems, they encounter other cell types, such as Platelets, Macrophages, and Killer T Cells, each with their own unique abilities and roles in maintaining bodily functions and fighting off threats.
+		"Cells at Work!" blends educational content with humor and action, providing readers with an entertaining and informative glimpse into the inner workings of the human body. Through its creative storytelling and colorful characters, the manga 
+		offers a fun way to learn about biology and the immune system. </Summary>
+		<Pages> 700 </Pages>
+		<ISBN> ‎‎9781632363565 </ISBN>
+		<Author> Akane Shimizu </Author>
+		<Price> 59.00 AED </Price>
+	</book>
+</library>

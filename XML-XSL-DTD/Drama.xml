@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XML-XSL-DTD/Drama.xsl"?>
+<!DOCTYPE note SYSTEM "books.dtd">
+
+<library>
+	<book>
+		<Title> Heart Bones </Title>
+		<Summary> A contemporary romance novel that follows the story of Beyah, a troubled young woman who finds solace in her summer escape
+		to a coastal town in North Carolina. There, she meets Samson, a local boy with a complicated past of his own. Despite their initial
+		differences, Beyah and Samson form a deep connection and embark on a passionate romance. However, as they navigate their relationship
+		and confront the secrets they've been keeping, they must also face the challenges of their respective pasts. The novel explores themes
+		of love, forgiveness, redemption, and the healing power of human connection. </Summary>
+		<Pages> 338 </Pages>
+		<ISBN> 9781542014803 </ISBN>
+		<Author> Colleen Hoover </Author>
+		<Price> 66.00 AED </Price>
+	</book>
+	
+	<book>
+		<Title> Malibu Rising </Title>
+		<Summary> Set in Malibu in the 1980s, focusing on the Riva family, particularly the four famous siblings: Nina, Jay, Hud, and Kit. 
+		The story unfolds over the course of one day, the day of the Riva's annual party, which is known for being a legendary event in Malibu.
+		"Malibu Rising" explores themes of family, love, betrayal, and resilience, painting a vivid portrait of a glamorous yet flawed 
+		family against the backdrop of the sun-soaked California coast. </Summary>
+		<Pages> 384 </Pages>
+		<ISBN> ‎9781524798659 </ISBN>
+		<Author> Taylor Jenkins Reid </Author>
+		<Price> 57.50 AED </Price>
+	</book>
+	
+	<book>
+		<Title> None of this is True </Title>
+		<Summary> This drama explores the lives of a group of friends as they navigate through the complexities of adulthood. The story 
+		\primarily focuses on a group of four friends who met during their college years and have remained close ever since. As they approach
+		their thirties, each character grapples with their own personal struggles, including relationships, careers, and identity crises.
+		It offers a poignant and relatable portrayal of friendship and the challenges of adulthood, with characters who are flawed and 
+		complex yet ultimately endearing. </Summary>
+		<Pages> 380 </Pages>
+		<ISBN> ‎‎B0CF7TD19V </ISBN>
+		<Author> Lisa Jewell </Author>
+		<Price> 80.75 AED </Price>
+	</book>
+</library>

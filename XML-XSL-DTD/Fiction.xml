@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XML-XSL-DTD/Fiction.xsl"?>
+<!DOCTYPE note SYSTEM "books.dtd">
+
+<library>
+	<book>
+		<Title> Harry Potter and the Philosopher's Stone </Title>
+		<Summary> Harry Potter learns he's a wizard and attends Hogwarts with friends Ron and Hermione. 
+				  Together, they uncover secrets, face challenges, and confront Voldemort to protect the Philosopher's Stone, 
+				  discovering the values of friendship and bravery. As they delve into the mysteries of 
+				  Harry's past and the dark wizard's return, they embark on a journey of courage and sacrifice. 
+				  Through their adventures, they learn about the power of unity and the importance of standing up 
+				  against darkness, laying the foundation for the epic battles yet to come in the wizarding world. </Summary>
+		<Pages> 309 </Pages>
+		<ISBN> 9780747532699 </ISBN>
+		<Author> J.K. Rowling	 </Author>
+		<Price> 33.64 AED </Price>
+	</book>
+	
+	<book>
+		<Title> The Hunger Games </Title>
+		<Summary> Set in a dystopian future, Katniss Everdeen volunteers to take her sister's place in a brutal televised event 
+			      where teenagers fight to the death. Alongside Peeta Mellark, her fellow tribute, Katniss navigates 
+				  the deadly arena, confronting moral dilemmas and the oppressive Capitol. As the Games progress, 
+				  Katniss and Peeta form alliances, defy the odds, and challenge the system, sparking a revolution that 
+				  reverberates throughout Panem. Through sacrifice and resilience, Katniss becomes a symbol of hope for the 
+				  oppressed districts, igniting a rebellion against the Capitol's tyranny. </Summary>
+		<Pages> 384 </Pages>
+		<ISBN> 9780439023528 </ISBN>
+		<Author> Suzanne Collins </Author>
+		<Price> 42.00 AED </Price>
+	</book>
+
+	<book>
+		<Title> Murder on the Orient Express </Title>
+		<Summary> Famed detective Hercule Poirot finds himself aboard the luxurious train when a murder occurs. 
+			      With a carriage full of suspects, Poirot employs his keen intellect to unravel the intricate web of lies and 
+				  deceit surrounding the crime. As he interviews passengers and pieces together clues, he uncovers a 
+				  shocking truth that challenges his own sense of justice. Set against the backdrop of a snowbound train, 
+				  this classic mystery delves into themes of vengeance, morality, and the complexities of human nature, 
+				  culminating in a surprising and satisfying resolution. </Summary>
+		<Pages> 288 </Pages>
+		<ISBN> 	9780062073495 </ISBN>
+		<Author> Agatha Christie </Author>
+		<Price> 48.69 AED </Price>
+	</book>
+	
+	<book>
+		<Title> A Court of Thorns and Roses </Title>
+		<Summary> Feyre Archeron, a young huntress, is dragged into the world of the faeries after killing a wolf in the woods, 
+				  which turns out to be a magical creature. As punishment, she's taken to the land of the faeries to live out her days.
+				  However, Feyre soon discovers that not everything is as it seems in the realm of the fae. 
+				  Amidst political intrigue and ancient conflicts, she navigates the treacherous court of the High Fae and 
+				  uncovers dark secrets that threaten both the mortal and faerie realms. Along the way, she forms alliances, 
+				  battles mythical creatures, and discovers her own hidden powers, setting the stage for a thrilling adventure 
+				  filled with romance, danger, and betrayal </Summary>
+		<Pages> 448 </Pages>
+		<ISBN> 	9781635575569 </ISBN>
+		<Author> Sarah J. Maas </Author>
+		<Price> 69.95 AED </Price>
+	</book>
+</library>
